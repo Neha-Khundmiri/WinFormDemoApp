@@ -1,0 +1,17 @@
+C:\Users\nehak\Desktop\Neha\WinFormsDemoApp\BetterWinFormsDemo\bin\Debug\net6.0-windows\BetterWinFormsDemo.exe
+C:\Users\nehak\Desktop\Neha\WinFormsDemoApp\BetterWinFormsDemo\bin\Debug\net6.0-windows\BetterWinFormsDemo.deps.json
+C:\Users\nehak\Desktop\Neha\WinFormsDemoApp\BetterWinFormsDemo\bin\Debug\net6.0-windows\BetterWinFormsDemo.runtimeconfig.json
+C:\Users\nehak\Desktop\Neha\WinFormsDemoApp\BetterWinFormsDemo\bin\Debug\net6.0-windows\BetterWinFormsDemo.dll
+C:\Users\nehak\Desktop\Neha\WinFormsDemoApp\BetterWinFormsDemo\bin\Debug\net6.0-windows\BetterWinFormsDemo.pdb
+C:\Users\nehak\Desktop\Neha\WinFormsDemoApp\BetterWinFormsDemo\obj\Debug\net6.0-windows\BetterWinFormsDemo.csproj.AssemblyReference.cache
+C:\Users\nehak\Desktop\Neha\WinFormsDemoApp\BetterWinFormsDemo\obj\Debug\net6.0-windows\BetterWinFormsDemo.MainForm.resources
+C:\Users\nehak\Desktop\Neha\WinFormsDemoApp\BetterWinFormsDemo\obj\Debug\net6.0-windows\BetterWinFormsDemo.csproj.GenerateResource.cache
+C:\Users\nehak\Desktop\Neha\WinFormsDemoApp\BetterWinFormsDemo\obj\Debug\net6.0-windows\BetterWinFormsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nehak\Desktop\Neha\WinFormsDemoApp\BetterWinFormsDemo\obj\Debug\net6.0-windows\BetterWinFormsDemo.AssemblyInfoInputs.cache
+C:\Users\nehak\Desktop\Neha\WinFormsDemoApp\BetterWinFormsDemo\obj\Debug\net6.0-windows\BetterWinFormsDemo.AssemblyInfo.cs
+C:\Users\nehak\Desktop\Neha\WinFormsDemoApp\BetterWinFormsDemo\obj\Debug\net6.0-windows\BetterWinFormsDemo.csproj.CoreCompileInputs.cache
+C:\Users\nehak\Desktop\Neha\WinFormsDemoApp\BetterWinFormsDemo\obj\Debug\net6.0-windows\BetterWinFormsDemo.dll
+C:\Users\nehak\Desktop\Neha\WinFormsDemoApp\BetterWinFormsDemo\obj\Debug\net6.0-windows\refint\BetterWinFormsDemo.dll
+C:\Users\nehak\Desktop\Neha\WinFormsDemoApp\BetterWinFormsDemo\obj\Debug\net6.0-windows\BetterWinFormsDemo.pdb
+C:\Users\nehak\Desktop\Neha\WinFormsDemoApp\BetterWinFormsDemo\obj\Debug\net6.0-windows\BetterWinFormsDemo.genruntimeconfig.cache
+C:\Users\nehak\Desktop\Neha\WinFormsDemoApp\BetterWinFormsDemo\obj\Debug\net6.0-windows\ref\BetterWinFormsDemo.dll
